@@ -1,0 +1,16 @@
+baseURL = 'https://Taiinguyenn139.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-ficurinia'
+defaultContentLanguage = 'en'
+
+paginate = 5 #number of post per page
+summaryLenght = 70 #number of words for short description
+
+[params]
+	author = "Nguyen Nhi Thanh Tai"
+	desciption = "Not think about yet, maybe add later :>"
+	
+	posts = "posts" # Directory which post will be search in
+	showPostsLink = true # Show or hide post link
+	extraContentDirs = [] # This feature will be
